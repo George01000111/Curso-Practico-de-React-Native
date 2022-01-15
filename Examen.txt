@@ -1,0 +1,34 @@
+https://platzi.com/clases/examen/resultados/2557/
+
+
+
+¿Para qué sirve Tab Navigation?
+Crear un Bottom Menu.
+
+¿Para qué sirve Drawer Navigation?
+Crear un menu desplegable.
+
+¿Con qué función puedes navegar a otras screens?
+navigation()
+
+¿Para qué sirve fetch?
+Hacer peticiones HTTP.
+
+¿Para qué sirve FlatList?
+Renderizar un listado de datos.
+
+¿Con qué le damos estilos a los componentes?
+StyleSheet
+
+¿Podemos reutilizar un mismo componente para mostrar información diferente?
+Verdadero
+
+¿Cómo identificas el sistema operativo donde se está ejecutando nuestra app con React Native?
+Platform.OS
+
+¿Qué función de React Navigation nos permite modificar el header de un Stack.Screen?
+setOptions
+
+
+
+
